@@ -14,6 +14,7 @@ public class Main {
         System.out.println(truck.getValues());
         System.out.println("Help!!!");
         System.out.println("me");
+        System.out.println("please");
 
 
 
