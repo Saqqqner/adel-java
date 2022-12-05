@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="adel-java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/adel-java.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
