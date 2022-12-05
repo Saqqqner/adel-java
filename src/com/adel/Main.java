@@ -12,6 +12,7 @@ public class Main {
         bmw.getValues();
         truck.setValues("Volvo-S5343",250.5f,5000,"Blue", new byte[]{1,2,1},true);
         System.out.println(truck.getValues());
+        System.out.println("Help!!!");
 
 
 
