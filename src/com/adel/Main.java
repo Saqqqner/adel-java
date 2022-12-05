@@ -18,6 +18,7 @@ public class Main {
         System.out.println("!!k");
         System.out.println("love!");
         //hello pppss
+        System.out.println("set mirrow glass");
 
 
 
